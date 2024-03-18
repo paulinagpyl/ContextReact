@@ -1,0 +1,9 @@
+/* duración de la transición*/
+.card {
+  transition: all 0.3s;
+}
+
+/* aumenta de tamaño la imagen*/
+.card:hover {
+  transform: scale(1.08);
+}
